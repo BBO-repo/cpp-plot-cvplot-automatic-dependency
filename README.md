@@ -13,6 +13,10 @@ run cmake to build your app
 > cmake --build build --target all
 
 That's it you're done! You can enjoy displaying wonderful graphics<br/><br/>
+![image](https://user-images.githubusercontent.com/17410064/116364562-99e21c00-a804-11eb-8fde-b33b74702255.png)
+![image](https://user-images.githubusercontent.com/17410064/116364606-abc3bf00-a804-11eb-8177-215dcfc800a3.png)
+
+
 Notes: Downloading opencv and opencv-contrib may take some time.. fortunately you only do it once</br>
 Comments: You could also using previous cmake commands
 > mkdir build<br/>
