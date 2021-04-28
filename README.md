@@ -3,8 +3,8 @@ Automatically download, build and use OpenCV (with opencv-contrib) and CvPlot fo
 
 # How to use
 clone the repo in your desired folder ex: cvdemo
-> git clone https://github.com/BBO-repo/cpp-opencv-cmake-superbuild.git cvdemo</br>
-> cd cvdemo
+> git clone https://github.com/BBO-repo/cpp-plot-cvplot-automatic-dependency.git CvPlotDemo</br>
+> cd CvPlotDemo
 
 run the cmake configuration to generate makefiles in the folder cvdemo/build 
 > cmake -S . -B build
