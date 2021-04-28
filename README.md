@@ -6,7 +6,7 @@ clone the repo in your desired folder ex: cvdemo
 > git clone https://github.com/BBO-repo/cpp-plot-cvplot-automatic-dependency.git CvPlotDemo</br>
 > cd CvPlotDemo
 
-run the cmake configuration to generate makefiles in the folder cvdemo/build 
+run the cmake configuration to generate makefiles in the folder CvPlotDemo/build 
 > cmake -S . -B build
 
 run cmake to build your app
